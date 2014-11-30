@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-first repository
+First repository on GitHub.  Just practicing making edits in a branch file.
